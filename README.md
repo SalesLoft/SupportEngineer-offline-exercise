@@ -61,6 +61,7 @@ In SalesLoft we love build quality software and we like to write code other peop
 * Documentation. Instructions are important and also the reason behind your development choices.
 * Data persistence. We works A LOT with databases and we want to make sure data stays where we want to be.
 * Test. A test written today are 10 bugs will not pop up tomorrow!
+* Git. Commit soon, commit often, branches make cooperative work way easier.
 * Readability. Code should be written for other people to work on: names, indentation, spaces. Everything matter.
 * Frontend frameworks. By any chance do you know any of the 19287468342 frameworks out there?
 * Development principles. There are different ways to write code, the important thing is doing it deliberately
