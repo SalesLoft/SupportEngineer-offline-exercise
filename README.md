@@ -10,7 +10,7 @@ This is the SupportEngineer (now on SE) offline exercise. This test includes thr
 
 We also suggest you to read the whole README before starting (don't worry it will only take 5 minutes)
 
-### Part 1 - Design a database
+### Part 1 - Design a database (expected duration 1h)
 
 SalesLoft is a sales engagement application, a place to organize your prospects and the way you engage with them.  
 
@@ -29,7 +29,7 @@ Based on these information, try to design the [ERD](https://www.lucidchart.com/p
 
 The ERD can be designed using any tool you prefer, https://www.draw.io/ is a free and useful tool for the goal. Paper, pencil and a picture works as well! 
 
-### Part 2 - The SQL Hunt!
+### Part 2 - The SQL Hunt! (expected duration 1h - 1,5h)
 
 An important part of the SE toolbox is the ability to effectively navigate a SQL database, specifically Postgres, in this exercise you will have to fetch according to our indications.
 
@@ -41,8 +41,8 @@ Based on the records contained in the database answer to the following questions
 
 Don't forget to attach the queries to your responses.
 
-1. Find the Country with the highest number of engineers
-2. Find the Team with the highest number of engineers but also the smallest number of bugs.
+1. Find the country with the highest number of engineers
+2. Find the team with the highest number of engineers but also the smallest number of bugs.
 3. Find the oldest engineer which has the most repositories written in functional programming
 4. Find the second region less represented in within the teams
 5. Find who published the book with the highest average rating 
@@ -50,9 +50,18 @@ Don't forget to attach the queries to your responses.
 7. Find the inventor of 3rd most used programming language by the teams on the most crowded floor
 8. Find the book least read by the the engineers who develop in Ruby
 
-### Part 3 - Just code!
+### Part 3 - Just code! (expected duration 3h - 8h)
 
-In this last part you will submit a full stack application. You are completely free to add or update an existing application you already worked on, create a new one or use this repository as boiler plate. The goal of this last part is not only to evaluate your current knowledge in web development but also you ability to research and find a solution to a problem.
+In this last part you will submit a full stack application with two features:
+
+1. Show a list of People records that are available via the [SalesLoft API](https://developers.salesloft.com/api.html#!/People/get_v2_people_json), displaying each Person’s name, email address, and job title.
+2. Create a button that, when clicked, displays a frequency count of all the *unique* characters in all the email addresses of all the People you have access to, sorted by frequency count.
+
+|Character|Count|
+|-|-|
+|M|7|
+|R|5|
+|S|2|
 
 In SalesLoft we love build quality software and we like to write code other people enjoy to work with, for this reason we will provide you the elements we consider important:
 
@@ -66,8 +75,9 @@ In SalesLoft we love build quality software and we like to write code other peop
 * Frontend frameworks. By any chance do you know any of the 19287468342 frameworks out there?
 * Development principles. There are different ways to write code, the important thing is doing it deliberately
 
-Take all the time you need, usually we are not in a rush but if so we'll let you know. 
-Remember, what you learned during those exercises are more important than what you knew before starting.
+Remember, what you learned during those exercises are more important than what you knew before starting!
+
+If you have any question write us at engineeringjobs@salesloft.com
 
 Good Luck
 
