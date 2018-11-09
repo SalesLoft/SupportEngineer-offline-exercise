@@ -42,7 +42,7 @@ Based on the records contained in the database answer to the following questions
 Don't forget to attach the queries to your responses.
 
 1. Find the country with the highest number of engineers
-2. Find the team with the highest number of engineers but also the smallest number of bugs.
+2. Find the three team with the highest number of engineers and order it by the number of bugs, bigger first.
 3. Find the oldest engineer which has the most repositories written in functional programming
 4. Find the second region less represented in within the teams
 5. Find who published the book with the highest average rating 
