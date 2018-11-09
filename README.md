@@ -41,14 +41,14 @@ Based on the records contained in the database, answer to the following question
 
 Don't forget to attach the queries to your responses.
 
-1. Find the country with the highest number of engineers.
-2. Find the team with the highest number of engineers, but also the smallest number of bugs.
-3. Find the oldest engineer who has the most repositories written in functional programming.
-4. Find the second least-represented region in among the teams.
-5. Find who published the book with the highest average rating.
-6. Find the capital of the country where the oldest person in the team that shipped the most features comes from.
-7. Find the inventor of 3rd most used programming language by the team on the most crowded floor.
-8. Find the book least read by the engineers who develop in Ruby.
+1. Find the country with the highest number of engineers
+2. Find the three team with the highest number of engineers and order it by the number of bugs, bigger first.
+3. Find the oldest engineer which has the most repositories written in functional programming
+4. Find the second region less represented in within the teams
+5. Find who published the book with the highest average rating 
+6. Find the capital of the country where the oldest person in the team that shipped the most features come from.
+7. Find the inventor of 3rd most used programming language by the teams on the most crowded floor
+8. Find the book least read by the the engineers who develop in Ruby
 
 ### Part 3 - Just code! (expected duration 3h - 8h)
 
