@@ -54,7 +54,7 @@ Don't forget to attach the queries to your responses.
 
 In this last part you will submit a full stack application with two features:
 
-1. Show a list of People records that are available via the [SalesLoft API](https://developers.salesloft.com/api.html#!/People/get_v2_people_json) using the API keys in the email you received. Display each Person’s name, email address, and job title.
+1. Show a list of People records that are available via the [SalesLoft API](https://developers.salesloft.com/api.html#!/People/get_v2_people_json) using the API key in the email you received. Display each Person’s name, email address, and job title.
 2. Create a button that, when clicked, displays a frequency count of all the **unique** characters in all the email addresses of all the People you have access to, sorted by frequency count.
 
 |Character|Count|
