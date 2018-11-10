@@ -11,9 +11,9 @@ This exercise includes three sections that will help us gain a better understand
 
 ## Table of Contents
 
-- [Part 1: database design](#Part-1---Design-a-database-(~1-hour))
-- [Part 2: sql hunt](#Part-2---The-SQL-Hunt!-(~1.5-hours))
-- [Part 3: simple web app](#Part-3---Build-a-simple-web-app-(~3-to-8-hours))
+- [Part 1 - database design](#Part-1-Design-a-database-(~1-hour))
+- [Part 2 - sql hunt](#Part-2-The-SQL-Hunt!-(~1.5-hours))
+- [Part 3 - simple web app](#Part-3-Build-a-simple-web-app-(~3-to-8-hours))
 
 ### Part 1 - Design a database (~1 hour)
 
@@ -25,16 +25,13 @@ SalesLoft is a sales engagement application, allowing its users to reach custome
 - A user can add companies to SalesLoft.
 - A person can belong to a Salesloft user.
 - People can belong to a company.
-
 - A team or user can create a cadence. What's a cadence? A cadence is a sequence of "steps" such as a phone call step and email step that a team can use for certain customers.
 - In other words, a cadence can include people, phone call and email steps.
 - A user can pick the day a step will run.
 - An email step can be manually ran.
 - But sometimes users want an email step to run automatically, meaning that if a person is on that step they will receive the email without the user having to hit send.
 
-TODO: Based on this information, draw an Entity Relationship Diagram [ERD](https://www.lucidchart.com/pages/er-diagrams) representing the relationships between our data in the SalesLoft app. Please note down your design choices.
-
-Your ERD can be designed using any tool you prefer. https://www.draw.io/ is a free and useful tool. Paper and pencil and a picture of your ERD sketch works as well!
+TODO: Based on this information, draw an Entity Relationship Diagram [ERD](https://www.lucidchart.com/pages/er-diagrams) representing the relationships between our data in the SalesLoft app. Please note down your design choices. Your ERD can be designed using any tool you prefer. https://www.draw.io/ is a free and useful tool. Paper and pencil and a picture of your ERD sketch works as well!
 
 ### Part 2 - The SQL Hunt! (~1.5 hours)
 
