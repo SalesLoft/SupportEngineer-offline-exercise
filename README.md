@@ -11,9 +11,9 @@ This exercise includes three sections that will help us gain a better understand
 
 ## Table of Contents
 
-- [Part 1 - database design](#1-design-a-database-(~1-hour))
-- [Part 2 - sql hunt](#2-the-sql-hunt!-(~1.5-hours))
-- [Part 3 - simple web app](#3-build-a-simple-web-app-(~3-to-8-hours))
+- [Part 1 - database design](##1-design-a-database-1-hour)
+- [Part 2 - sql hunt](#2-the-sql-hunt-15-hours)
+- [Part 3 - simple web app](3-build-a-simple-web-app-3-to-8-hours)
 
 ### 1. Design a database (~1 hour)
 
