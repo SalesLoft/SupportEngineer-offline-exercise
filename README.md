@@ -11,11 +11,11 @@ This exercise includes three sections that will help us gain a better understand
 
 ## Table of Contents
 
-- [Part 1 - database design](#Part-1-Design-a-database-(~1-hour))
-- [Part 2 - sql hunt](#Part-2-The-SQL-Hunt!-(~1.5-hours))
-- [Part 3 - simple web app](#Part-3-Build-a-simple-web-app-(~3-to-8-hours))
+- [Part 1 - database design](#1-design-a-database-(~1-hour))
+- [Part 2 - sql hunt](#2-the-sql-hunt!-(~1.5-hours))
+- [Part 3 - simple web app](#3-build-a-simple-web-app-(~3-to-8-hours))
 
-### Part 1 - Design a database (~1 hour)
+### 1. Design a database (~1 hour)
 
 SalesLoft is a sales engagement application, allowing its users to reach customers faster and more effectively.
 
@@ -33,7 +33,7 @@ SalesLoft is a sales engagement application, allowing its users to reach custome
 
 TODO: Based on this information, draw an Entity Relationship Diagram [ERD](https://www.lucidchart.com/pages/er-diagrams) representing the relationships between our data in the SalesLoft app. Please note down your design choices. Your ERD can be designed using any tool you prefer. https://www.draw.io/ is a free and useful tool. Paper and pencil and a picture of your ERD sketch works as well!
 
-### Part 2 - The SQL Hunt! (~1.5 hours)
+### 2. The SQL Hunt! (~1.5 hours)
 
 As a software support engineer, you'll need to effectively navigate a SQL database, specifically PostgreSQL. In this exercise, you will have to fetch data according to the instructions.
 
@@ -55,7 +55,7 @@ Don't forget to attach the queries to your responses.
 7. Find the inventor of 3rd most used programming language by the teams on the most crowded floor
 8. Find the book least read by the the engineers who develop in Ruby
 
-### Part 3 - Build a simple web app (~3 to 8 hours)
+### 3. Build a simple web app (~3 to 8 hours)
 
 In this last part you will submit a full stack application with two features:
 
