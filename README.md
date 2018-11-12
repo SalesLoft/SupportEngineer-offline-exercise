@@ -52,7 +52,7 @@ We would like to see the queries along with the answers for the following questi
 4. Find the second least represented region within the teams.
 5. Find who published the book with the highest average rating.
 6. Find the capital of the country where the oldest person in the team that shipped the most features comes from.
-7. Find the inventor of the third most used programming language by the teams on the most crowded floor.
+7. Find the inventor of the third most used programming language by the teams on the most populated floor.
 8. Find the book least read by the the engineers who develop in Ruby.
 
 ### 3. Build a simple web app (~3 to 5 hours)
