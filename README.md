@@ -26,12 +26,12 @@ SalesLoft is a sales engagement application, allowing its users to reach prospec
 - A user can add companies to SalesLoft.
 - A person can belong to a Salesloft user.
 - People can belong to a company.
-- A team or user can create a cadence. What's a cadence? A cadence is a sequence of "steps" such as a phone call step and an email step that a team can use structure customer contact.
-- In other words, a cadence can include people, phone calls, and email steps.
+- A team or user can create a cadence. What's a cadence? A cadence is a sequence of "steps" such as a phone call step and an email step that a team can use to structure customer contact.
+- In other words, a cadence can include people, phone call steps, and email steps.
 - A user can pick the day a step will run.
 - An email step can be run manually or automatically at a certain time.  Automatic emails steps mean that if a person is on that step they will receive the email without the user having to hit send.
 
-TODO: Based on this information, draw an Entity Relationship Diagram [ERD](https://www.lucidchart.com/pages/er-diagrams) representing the relationships between our data in the SalesLoft app. Please note down your design choices. Your ERD can be designed using any tool you prefer. https://www.draw.io/ is a free and useful tool. Paper and pencil and a picture of your ERD sketch works as well!
+TODO: Based on this information, draw an Entity Relationship Diagram [ERD](https://www.lucidchart.com/pages/er-diagrams) representing the relationships between our data in the SalesLoft app. Please note down your design choices. Your ERD can be designed using any tool you prefer. https://www.draw.io/ is a free and useful tool. Paper and pencil and a picture of your ERD sketch works as well!  Please document any assumptions or outstanding questions you have.
 
 ### 2. The SQL Hunt! (~1.5 hours)
 
