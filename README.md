@@ -73,7 +73,6 @@ At SalesLoft we love building quality software and we like to write code other p
 - Usability. Having a working application is the first step, right?
 - Deployment. It would be cool to use the application in the cloud!
 - Documentation. Instructions are important and we want to see the reasons behind your development choices.
-- Data persistence. We work A LOT with databases and we want to make sure data stays where we want it to be.
 - Tests. A test written today is 10 bugs that will not pop up tomorrow!
 - Git. Commit soon and commit often. Branches make cooperative work way easier.
 - Readability. Code should be written for other people to work on: names, indentation, spaces. Everything matters.
