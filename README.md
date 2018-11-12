@@ -42,7 +42,7 @@ As a support software engineer, you'll need to effectively navigate a SQL databa
 3. Type `bundle install`
 4. Setup the database `rails db:setup`
 
-You can use either the Rails Console with ActiveRecord or Postgres console and pure SQL. Alternatively, you can import our database in another application of your choice, running the command `rake db:dump format=sql` it will create a .sql file to import.
+You can use either the Rails Console with ActiveRecord or the Postgres console and pure SQL. Alternatively, you can import our database in another application of your choice. Running the command `rake db:dump format=sql` will create a .sql file to import.
 
 We would like to see the queries along with the answers for the following questions:
 
@@ -77,12 +77,12 @@ At SalesLoft we love building quality software and we like to write code other p
 - Tests. A test written today is 10 bugs that will not pop up tomorrow!
 - Git. Commit soon and commit often. Branches make cooperative work way easier.
 - Readability. Code should be written for other people to work on: names, indentation, spaces. Everything matters.
-- Frontend frameworks. Do you any know of the numerous frameworks out there? Are you using your choice to your advantage?
+- Frontend frameworks. Do you know any of the numerous frameworks out there? Are you using your choice to your advantage?
 - Development principles. There are different ways to write code. The important thing is doing it deliberately.
 
 Remember, what you learn during these exercises is more important than what you knew before starting!
 
-If you have any questions, email us at engineeringjobs@salesloft.com
+If you have any questions, email us at engineeringjobs@salesloft.com.
 
 Good Luck!
 
