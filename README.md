@@ -45,6 +45,14 @@ You can choose to run your queries from Rails Console using `rails c` or from th
 
 Alternatively, you can import our database in another application of your choice. Running the command `rake db:dump format=sql` will create a .sql file to import.
 
+**If you are using Windows and are having problems with Docker, here is an alternative:**
+- Register for a free PostGresQL account with [ElephantSQL](https://customer.elephantsql.com/instance/create?plan=turtle)
+- Copy 20200602015045_sqlhunt_development.sql from this repo to your local machine
+- From the *Details* page of your ElephantSQL account, copy the URL to your database to use in the next step
+- Open a terminal window on your local machine and run `psql URLcopiedfrompreviousstep < 20200602015045_sqlhunt_development.sql` to upload the database to your ElephantSQL account
+- In ElephantSQL, go to the *Browser* page to run queries
+
+
 We would like to see the queries along with the answers for the following questions:
 
 1. Find the country with the highest number of engineers.
